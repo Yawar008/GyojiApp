@@ -31,4 +31,3 @@ Structure:
     
     3. Frontend - 
         - Gyoji_Frontend will have all the code require on the frontend side.
-        - The application is being made using React Native.
